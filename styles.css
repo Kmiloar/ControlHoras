@@ -10,6 +10,7 @@
 h1 {
 padding: 4% 0 34%;
 color: #fff;
+font-family: 'Abril Fatface', cursive;
 }
 
 form {
@@ -34,7 +35,9 @@ form {
 }
 
 h6 {
-    padding-top :5%;
+    padding-top: 5%;
+    font-family: 'Merriweather', serif;
+    
 }
 
 footer {
@@ -51,4 +54,5 @@ footer {
 
 h3 {
     padding: 0 0 5%;
+    font-family: 'Merriweather', serif;
 }
